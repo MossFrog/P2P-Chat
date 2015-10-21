@@ -1,0 +1,9 @@
+c:\users\a\documents\visual studio 2012\Projects\Peer-to-Peer Chat\Peer-to-Peer Chat\bin\Debug\Peer-to-Peer Chat.exe.config
+c:\users\a\documents\visual studio 2012\Projects\Peer-to-Peer Chat\Peer-to-Peer Chat\bin\Debug\Peer-to-Peer Chat.exe
+c:\users\a\documents\visual studio 2012\Projects\Peer-to-Peer Chat\Peer-to-Peer Chat\bin\Debug\Peer-to-Peer Chat.pdb
+c:\users\a\documents\visual studio 2012\Projects\Peer-to-Peer Chat\Peer-to-Peer Chat\obj\Debug\Peer-to-Peer Chat.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2012\Projects\Peer-to-Peer Chat\Peer-to-Peer Chat\obj\Debug\Peer_to_Peer_Chat.Form1.resources
+c:\users\a\documents\visual studio 2012\Projects\Peer-to-Peer Chat\Peer-to-Peer Chat\obj\Debug\Peer_to_Peer_Chat.Properties.Resources.resources
+c:\users\a\documents\visual studio 2012\Projects\Peer-to-Peer Chat\Peer-to-Peer Chat\obj\Debug\Peer-to-Peer Chat.csproj.GenerateResource.Cache
+c:\users\a\documents\visual studio 2012\Projects\Peer-to-Peer Chat\Peer-to-Peer Chat\obj\Debug\Peer-to-Peer Chat.exe
+c:\users\a\documents\visual studio 2012\Projects\Peer-to-Peer Chat\Peer-to-Peer Chat\obj\Debug\Peer-to-Peer Chat.pdb
