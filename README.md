@@ -7,7 +7,7 @@ Feel free to copy and manipulate the code.
 
 Works on a local internet connection that utilizes RJ-45 cables.
 
-You mus manually enter an IP address for the destined target.
+You must manually enter an IP address for the destined target.
 
 Ports must be exclusive for each user.
 
